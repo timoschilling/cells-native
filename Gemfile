@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'rake-compiler'
+gem 'pry'
+gem 'guard'
+gem 'minitest'
+gem 'guard-minitest'
+gem 'guard-rake'
+gem 'terminal-notifier-guard'
+gem 'benchmark-ips'
